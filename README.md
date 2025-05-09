@@ -4,7 +4,7 @@
 
 🌱 Currently building my GitHub portfolio while learning JavaScript, HTML, and CSS — and exploring other tools like React and Python.
 
-📌 I recently built a simple [Weather App](https://github.com/rajaashb/Weather-App) using HTML/CSS/JS and I'm working on more personal projects to sharpen my skills.
+📌 Feel free to check out my posted projects, and I'm working on more personal projects to sharpen my skills.
 
 💼 I'm currently seeking internship opportunities (remote or in-person) where I can grow as a developer and contribute to meaningful projects.
 
