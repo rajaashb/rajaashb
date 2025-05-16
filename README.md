@@ -1,16 +1,36 @@
 # Hi, I'm Rajaa Shaaban 👋
 
-🎓 I'm a Computer Science graduate with a growing passion for web development, problem-solving, and building real-world projects.
+I'm a Computer Science graduate passionate about building real-world projects and solving problems through code. While I have a strong foundation in web development, I've recently been diving into data science, focusing on Python, data analysis, and storytelling with data.
 
-🌱 Currently building my GitHub portfolio while learning JavaScript, HTML, and CSS — and exploring other tools like React and Python.
+**🧠 What I'm Working On**
 
-📌 Feel free to check out my posted projects, and I'm working on more personal projects to sharpen my skills.
+- Data Science Projects: Completed an in-depth analysis of app profiles on Google Play and the App Store to identify profitable app genres.
 
-💼 I'm currently seeking internship opportunities (remote or in-person) where I can grow as a developer and contribute to meaningful projects.
+- Web Development: Continuing to enhance my skills in JavaScript, HTML, CSS, and exploring frameworks like React.
 
-🗣️ I speak English, Arabic, French, and conversational Korean — and I'm always up for collaborating and learning with others.
+- Learning: Expanding my knowledge in Python libraries such as Pandas, NumPy, and Matplotlib for data analysis and visualization.
 
-📫 How to reach me: rajaashaaban16@gmail.com | www.linkedin.com/in/rajaa-shaaban-96ba04283
+**📂 Featured Project**
+
+- App Profile Analysis: Analyzed datasets from Google Play and the App Store to determine which app genres are most successful. This project involved data cleaning, exploratory data analysis, and deriving actionable insights.
+
+🔗 [View the project here](https://github.com/rajaashb/Android-IOS-Apps-Analysis)
+
+**🌱 I'm Currently Learning**
+
+- Advanced data analysis techniques using Python.
+
+- Data visualization tools to effectively communicate insights.
+
+- Best practices in data storytelling and presentation.
+
+**🤝 Let's Connect**
+
+I'm open to internship opportunities (remote or in-person) where I can apply and further develop my skills in data science and web development.
+
+📧 Email: rajaashaaban16@gmail.com
+
+💼 LinkedIn: [Rajaa Shaaban](www.linkedin.com/in/rajaa-shaaban-96ba04283)
 
 ---
 
