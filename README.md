@@ -34,7 +34,7 @@ I'm a Computer Science graduate passionate about building real-world projects an
 
 **🤝 Let's Connect**
 
-I'm open to internship opportunities (remote or in-person) where I can apply and further develop my skills in data science and web development.
+I'm open to internship or job opportunities (remote or in-person) where I can apply and further develop my skills.
 
 📧 Email: rajaashaaban16@gmail.com
 
